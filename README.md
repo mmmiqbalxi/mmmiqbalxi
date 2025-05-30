@@ -1,3 +1,5 @@
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5zZHZqZmJqYnNtZWFsMG96ZTkzbnAxcTl3ZG5wc3M2cXFmZzdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="900">
+
 # 💫 About Me:
 Hi there, I'm Muhamad Iqbal 👋
 A beginner programmer
