@@ -1,8 +1,21 @@
+# 💫 About Me:
+Hi there, I'm Muhamad Iqbal 👋
+A beginner programmer
+
+# 💻 Tech Stack / Tools:
+[![](https://skillicons.dev/icons?i=html,css,javascript,php,bootstrap,laravel,mysql,java,vscode,figma,androidstudio&theme=dark&perline=8)](https://skillicons.dev)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mmmiqbalxi&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mmmiqbalxi&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmiqbalxi&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mmmiqbalxi&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
 
-[![gyug](https://visitcount.itsvg.in/api?id=mmmiqbalxi&icon=2&color=3)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmiqbalxi&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mmmiqbalxi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmmiqbalxi&label=Profile%20views&color=0e75b6&style=flat" alt="mmmiqbalxi" /> </p>
+
+[![](https://visitcount.itsvg.in/api?id=mmmiqbalxi&icon=10&color=13)](https://visitcount.itsvg.in)
+
