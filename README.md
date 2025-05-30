@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5zZHZqZmJqYnNtZWFsMG96ZTkzbnAxcTl3ZG5wc3M2cXFmZzdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="900">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRkOWF0cXJkenliZmY5YmM2dTZyYzdhM3lmajFveGUwcWp1am13ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wqD027ItODP5S/giphy.gif" width="900">
 
 # 💫 About Me:
 Hi there, I'm Muhamad Iqbal 👋
@@ -15,8 +15,7 @@ A beginner programmer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mmmiqbalxi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
+----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmmiqbalxi&label=Profile%20views&color=0e75b6&style=flat" alt="mmmiqbalxi" /> </p>
 
 [![](https://visitcount.itsvg.in/api?id=mmmiqbalxi&icon=10&color=13)](https://visitcount.itsvg.in)
