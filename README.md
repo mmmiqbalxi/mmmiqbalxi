@@ -4,6 +4,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mmmiqbalxi/count.svg?"  />
+</div>
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -16,7 +22,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning ... PHP, Laravel<br>🎯 Goals: ... Fullstack Developer<br>🎲 Fun fact: ... nothing</p>
+<p align="left">📚 I'm currently learning ... PHP, Laravel<br>🎯 Goals ... Fullstack Developer<br>🎲 Fun fact ... nothing</p>
 
 ###
 
@@ -67,11 +73,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/mmmiqbalxi/mmmiqbalxi/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mmmiqbalxi/count.svg?"  />
-</div>
 
 ###
