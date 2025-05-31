@@ -27,7 +27,9 @@ A beginner programmer
 
 
 ---
-<img align="right" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRkOWF0cXJkenliZmY5YmM2dTZyYzdhM3lmajFveGUwcWp1am13ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wqD027ItODP5S/giphy.gif"  />
+<div align="center">
+  <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRkOWF0cXJkenliZmY5YmM2dTZyYzdhM3lmajFveGUwcWp1am13ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wqD027ItODP5S/giphy.gif"  />
+</div>
 
 ###
 
